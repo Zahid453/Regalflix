@@ -1,2 +1,2 @@
 # Regalflix
-mEnjoy and watch wultiple Movies and TV-Shows
+Enjoy and watch wultiple Movies and TV-Shows
